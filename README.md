@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LuisaMariaO
-- 🌱 I’m currently learning WebProgramming
+- 🌱 I’m currently a Computer Science Engineering student
+- 💻 I love to learn new technologies 
 
 <!---
 LuisaMariaO/LuisaMariaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
